@@ -10,8 +10,8 @@ A Simple Code Conventions For Personal Or Team, the way to make code clearly and
 相比于其它更加专业的代码规范（比如[Google的java代码规范](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)）会更加简单易于记忆
 
 #相关资料：
-            [java code conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
-            [google java style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+   [java code conventions](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)<br/>
+   [google java style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)<br/>
 
 
 
