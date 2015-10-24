@@ -65,11 +65,11 @@
 ```c 
 		eg:int mSensorTemperature;
 ```
-* 函数：单词均大写开头              不用下划线     
->
-          ```c 
+* 函数：单词均大写开头              不用下划线 
+
+```c 
 		eg:bool CheckBusy(int param1,double param2);
-	  ```
+```
 
 
 ###(二)：文件规范
